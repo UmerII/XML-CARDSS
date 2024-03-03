@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file.xsl" type="text/xsl"?>
+<Aptech>
+
+<student>
+    <image>Haris.png</image>
+<id>1011</id>
+<name>Haris</name>
+<gender>Male</gender>
+
+
+</student>
+
+
+<student>
+    <image>Hasan.png</image>
+    <id>1012</id>
+    <name>Hasan</name>
+    <gender>Male</gender>
+    
+    
+    </student>
+
+    
+<student>
+    <image>Luke.png</image>
+    <id>1013</id>
+    <name>Luke</name>
+    <gender>Male</gender>
+    
+    
+    </student>
+    
+
+</Aptech>
